@@ -2,3 +2,6 @@
 Added Factors of number\
 Added 99Bottles\
 Added Menu Calculator\
+
+Queries and Issues are most welcome.
+
