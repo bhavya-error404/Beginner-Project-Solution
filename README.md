@@ -2,7 +2,7 @@
 Added Factors of number\
 Added 99Bottles\
 Added Menu Calculator\
-Added #flames
+Added Flames
 
 Queries and Issues are most welcome.
 
