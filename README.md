@@ -4,7 +4,9 @@ Added 99Bottles\
 Added Menu Calculator\
 Added Flames\
 Added Palindrome\
-Added Armstrong
+Added Armstrong\
+Added Mean,Median and Mode
 
+All the Subgoals are completed of the above mentioned projects.
 Queries and Issues are most welcome.
 
