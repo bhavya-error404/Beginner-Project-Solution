@@ -6,7 +6,8 @@ Added Flames\
 Added Palindrome\
 Added Armstrong\
 Added Mean,Median and Mode\
-Added Guessing Game
+Added Guessing Game\
+Added Whats My Weather
 
 All the Subgoals are completed of the above mentioned projects.
 Queries and Issues are most welcome.
