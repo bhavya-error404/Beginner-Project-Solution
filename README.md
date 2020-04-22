@@ -8,7 +8,8 @@ Added Armstrong\
 Added Mean,Median and Mode\
 Added Guessing Game\
 Added Whats My Weather\
-Added Two numbers
+Added Two numbers\
+Added Fibonacci 
 
 All the Subgoals are completed of the above mentioned projects.
 Queries and Issues are most welcome.
