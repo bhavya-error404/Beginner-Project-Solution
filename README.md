@@ -9,7 +9,8 @@ Added Mean,Median and Mode\
 Added Guessing Game\
 Added Whats My Weather\
 Added Two numbers\
-Added Fibonacci 
+Added Fibonacci\
+Added Random Wikipedia Articles
 
 All the Subgoals are completed of the above mentioned projects.
 Queries and Issues are most welcome.
